@@ -23,9 +23,9 @@ Multiple candidate ground facilities are available, and the task is to:
 
 ## 🧩 Scenario Description
 - **Constellation**
-  - 4 orbital planes  
-  - 8 satellites per plane (32 total)
-  - Sun-synchronous style LEO orbits
+  - 1 orbital planes  
+  - 32 satellites per plane all total
+  - Sun synchronous style LEO orbits
   - Evenly spaced and staggered true anomalies
 
 - **Ground Segment**
