@@ -1,0 +1,239 @@
+                                                 28 Jan 2026 18:26:20
+FigureOfMerit-pdop
+
+
+                         Coverage Properties                         
+---------------------------------------------------------------------
+Custom Regions Coverage                                              
+Grid Altitude: 0.0000 (km)                                           
+Ground Altitude set from grid altitude reference (On ellipsoid)      
+Resolution: 2.6949 (deg)                                             
+Number of Points: 156                                                
+Assets required for a valid access: At Least 1                       
+Assigned Assets:                                                     
+    Satellite/Satellite1:    Active                                  
+    SatelliteCollection/constellation/Subset/AllSatellites:    Active
+        Shell_1_P01_S01:    Active                                   
+        Shell_1_P01_S02:    Active                                   
+        Shell_1_P01_S03:    Active                                   
+        Shell_1_P01_S04:    Active                                   
+        Shell_1_P01_S05:    Active                                   
+        Shell_1_P01_S06:    Active                                   
+        Shell_1_P01_S07:    Active                                   
+        Shell_1_P01_S08:    Active                                   
+        Shell_1_P01_S09:    Active                                   
+        Shell_1_P01_S10:    Active                                   
+        Shell_1_P01_S11:    Active                                   
+        Shell_1_P01_S12:    Active                                   
+        Shell_1_P01_S13:    Active                                   
+        Shell_1_P01_S14:    Active                                   
+        Shell_1_P01_S15:    Active                                   
+        Shell_1_P01_S16:    Active                                   
+        Shell_1_P01_S17:    Active                                   
+        Shell_1_P01_S18:    Active                                   
+        Shell_1_P01_S19:    Active                                   
+        Shell_1_P01_S20:    Active                                   
+        Shell_1_P02_S01:    Active                                   
+        Shell_1_P02_S02:    Active                                   
+        Shell_1_P02_S03:    Active                                   
+        Shell_1_P02_S04:    Active                                   
+        Shell_1_P02_S05:    Active                                   
+        Shell_1_P02_S06:    Active                                   
+        Shell_1_P02_S07:    Active                                   
+        Shell_1_P02_S08:    Active                                   
+        Shell_1_P02_S09:    Active                                   
+        Shell_1_P02_S10:    Active                                   
+        Shell_1_P02_S11:    Active                                   
+        Shell_1_P02_S12:    Active                                   
+        Shell_1_P02_S13:    Active                                   
+        Shell_1_P02_S14:    Active                                   
+        Shell_1_P02_S15:    Active                                   
+        Shell_1_P02_S16:    Active                                   
+        Shell_1_P02_S17:    Active                                   
+        Shell_1_P02_S18:    Active                                   
+        Shell_1_P02_S19:    Active                                   
+        Shell_1_P02_S20:    Active                                   
+        Shell_1_P03_S01:    Active                                   
+        Shell_1_P03_S02:    Active                                   
+        Shell_1_P03_S03:    Active                                   
+        Shell_1_P03_S04:    Active                                   
+        Shell_1_P03_S05:    Active                                   
+        Shell_1_P03_S06:    Active                                   
+        Shell_1_P03_S07:    Active                                   
+        Shell_1_P03_S08:    Active                                   
+        Shell_1_P03_S09:    Active                                   
+        Shell_1_P03_S10:    Active                                   
+        Shell_1_P03_S11:    Active                                   
+        Shell_1_P03_S12:    Active                                   
+        Shell_1_P03_S13:    Active                                   
+        Shell_1_P03_S14:    Active                                   
+        Shell_1_P03_S15:    Active                                   
+        Shell_1_P03_S16:    Active                                   
+        Shell_1_P03_S17:    Active                                   
+        Shell_1_P03_S18:    Active                                   
+        Shell_1_P03_S19:    Active                                   
+        Shell_1_P03_S20:    Active                                   
+        Shell_1_P04_S01:    Active                                   
+        Shell_1_P04_S02:    Active                                   
+        Shell_1_P04_S03:    Active                                   
+        Shell_1_P04_S04:    Active                                   
+        Shell_1_P04_S05:    Active                                   
+        Shell_1_P04_S06:    Active                                   
+        Shell_1_P04_S07:    Active                                   
+        Shell_1_P04_S08:    Active                                   
+        Shell_1_P04_S09:    Active                                   
+        Shell_1_P04_S10:    Active                                   
+        Shell_1_P04_S11:    Active                                   
+        Shell_1_P04_S12:    Active                                   
+        Shell_1_P04_S13:    Active                                   
+        Shell_1_P04_S14:    Active                                   
+        Shell_1_P04_S15:    Active                                   
+        Shell_1_P04_S16:    Active                                   
+        Shell_1_P04_S17:    Active                                   
+        Shell_1_P04_S18:    Active                                   
+        Shell_1_P04_S19:    Active                                   
+        Shell_1_P04_S20:    Active                                   
+        Shell_1_P05_S01:    Active                                   
+        Shell_1_P05_S02:    Active                                   
+        Shell_1_P05_S03:    Active                                   
+        Shell_1_P05_S04:    Active                                   
+        Shell_1_P05_S05:    Active                                   
+        Shell_1_P05_S06:    Active                                   
+        Shell_1_P05_S07:    Active                                   
+        Shell_1_P05_S08:    Active                                   
+        Shell_1_P05_S09:    Active                                   
+        Shell_1_P05_S10:    Active                                   
+        Shell_1_P05_S11:    Active                                   
+        Shell_1_P05_S12:    Active                                   
+        Shell_1_P05_S13:    Active                                   
+        Shell_1_P05_S14:    Active                                   
+        Shell_1_P05_S15:    Active                                   
+        Shell_1_P05_S16:    Active                                   
+        Shell_1_P05_S17:    Active                                   
+        Shell_1_P05_S18:    Active                                   
+        Shell_1_P05_S19:    Active                                   
+        Shell_1_P05_S20:    Active                                   
+        Shell_1_P06_S01:    Active                                   
+        Shell_1_P06_S02:    Active                                   
+        Shell_1_P06_S03:    Active                                   
+        Shell_1_P06_S04:    Active                                   
+        Shell_1_P06_S05:    Active                                   
+        Shell_1_P06_S06:    Active                                   
+        Shell_1_P06_S07:    Active                                   
+        Shell_1_P06_S08:    Active                                   
+        Shell_1_P06_S09:    Active                                   
+        Shell_1_P06_S10:    Active                                   
+        Shell_1_P06_S11:    Active                                   
+        Shell_1_P06_S12:    Active                                   
+        Shell_1_P06_S13:    Active                                   
+        Shell_1_P06_S14:    Active                                   
+        Shell_1_P06_S15:    Active                                   
+        Shell_1_P06_S16:    Active                                   
+        Shell_1_P06_S17:    Active                                   
+        Shell_1_P06_S18:    Active                                   
+        Shell_1_P06_S19:    Active                                   
+        Shell_1_P06_S20:    Active                                   
+        Shell_1_P07_S01:    Active                                   
+        Shell_1_P07_S02:    Active                                   
+        Shell_1_P07_S03:    Active                                   
+        Shell_1_P07_S04:    Active                                   
+        Shell_1_P07_S05:    Active                                   
+        Shell_1_P07_S06:    Active                                   
+        Shell_1_P07_S07:    Active                                   
+        Shell_1_P07_S08:    Active                                   
+        Shell_1_P07_S09:    Active                                   
+        Shell_1_P07_S10:    Active                                   
+        Shell_1_P07_S11:    Active                                   
+        Shell_1_P07_S12:    Active                                   
+        Shell_1_P07_S13:    Active                                   
+        Shell_1_P07_S14:    Active                                   
+        Shell_1_P07_S15:    Active                                   
+        Shell_1_P07_S16:    Active                                   
+        Shell_1_P07_S17:    Active                                   
+        Shell_1_P07_S18:    Active                                   
+        Shell_1_P07_S19:    Active                                   
+        Shell_1_P07_S20:    Active                                   
+        Shell_1_P08_S01:    Active                                   
+        Shell_1_P08_S02:    Active                                   
+        Shell_1_P08_S03:    Active                                   
+        Shell_1_P08_S04:    Active                                   
+        Shell_1_P08_S05:    Active                                   
+        Shell_1_P08_S06:    Active                                   
+        Shell_1_P08_S07:    Active                                   
+        Shell_1_P08_S08:    Active                                   
+        Shell_1_P08_S09:    Active                                   
+        Shell_1_P08_S10:    Active                                   
+        Shell_1_P08_S11:    Active                                   
+        Shell_1_P08_S12:    Active                                   
+        Shell_1_P08_S13:    Active                                   
+        Shell_1_P08_S14:    Active                                   
+        Shell_1_P08_S15:    Active                                   
+        Shell_1_P08_S16:    Active                                   
+        Shell_1_P08_S17:    Active                                   
+        Shell_1_P08_S18:    Active                                   
+        Shell_1_P08_S19:    Active                                   
+        Shell_1_P08_S20:    Active                                   
+        Shell_1_P09_S01:    Active                                   
+        Shell_1_P09_S02:    Active                                   
+        Shell_1_P09_S03:    Active                                   
+        Shell_1_P09_S04:    Active                                   
+        Shell_1_P09_S05:    Active                                   
+        Shell_1_P09_S06:    Active                                   
+        Shell_1_P09_S07:    Active                                   
+        Shell_1_P09_S08:    Active                                   
+        Shell_1_P09_S09:    Active                                   
+        Shell_1_P09_S10:    Active                                   
+        Shell_1_P09_S11:    Active                                   
+        Shell_1_P09_S12:    Active                                   
+        Shell_1_P09_S13:    Active                                   
+        Shell_1_P09_S14:    Active                                   
+        Shell_1_P09_S15:    Active                                   
+        Shell_1_P09_S16:    Active                                   
+        Shell_1_P09_S17:    Active                                   
+        Shell_1_P09_S18:    Active                                   
+        Shell_1_P09_S19:    Active                                   
+        Shell_1_P09_S20:    Active                                   
+        Shell_1_P10_S01:    Active                                   
+        Shell_1_P10_S02:    Active                                   
+        Shell_1_P10_S03:    Active                                   
+        Shell_1_P10_S04:    Active                                   
+        Shell_1_P10_S05:    Active                                   
+        Shell_1_P10_S06:    Active                                   
+        Shell_1_P10_S07:    Active                                   
+        Shell_1_P10_S08:    Active                                   
+        Shell_1_P10_S09:    Active                                   
+        Shell_1_P10_S10:    Active                                   
+        Shell_1_P10_S11:    Active                                   
+        Shell_1_P10_S12:    Active                                   
+        Shell_1_P10_S13:    Active                                   
+        Shell_1_P10_S14:    Active                                   
+        Shell_1_P10_S15:    Active                                   
+        Shell_1_P10_S16:    Active                                   
+        Shell_1_P10_S17:    Active                                   
+        Shell_1_P10_S18:    Active                                   
+        Shell_1_P10_S19:    Active                                   
+        Shell_1_P10_S20:    Active                                   
+Access Interval: 28 Jan 2026 06:30:00.000 to 29 Jan 2026 06:30:00.000
+Regional Acceleration: Automatic                                     
+Light time delay: Ignored                                            
+Maximum Sampling Time Step: 360.000 secs                             
+Minimum Sampling Time Step: 0.010 secs                               
+Time Convergence: 5.000e-03 secs                                     
+Value Convergence: Relative 1.000e-08 - Absolute 1.000e-14           
+
+
+                  FOM Properties                  
+--------------------------------------------------
+Minimum Dilution Of Precision                     
+Invalid values are ignored in statistic generation
+Type: PDOP                                        
+Method: Best Four Based on PDOP                   
+Satisfaction: Greater Than 4.000000               
+Invalid Data Indicator Value: 0.000000
+           
+FOM value range check is not enabled.             
+
+
+ Minimum     Maximum     Average
+--------    --------    --------
+1.661110    1.821843    1.729154
